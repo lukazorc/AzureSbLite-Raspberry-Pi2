@@ -1,0 +1,1 @@
+E:\Projekti\ClonePi2ToEventHubs\Pi2EventHubProcessor\bin\Debug\Pi2EventHubProcessor.exe.config

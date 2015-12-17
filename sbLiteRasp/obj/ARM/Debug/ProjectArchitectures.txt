@@ -1,0 +1,2 @@
+C:\Users\lukaz\projects\sbLiteRasp\IoTClient\IoTClient.csproj;arm
+C:\Users\lukaz\projects\sbLiteRasp\sbLiteRasp\sbLiteRasp.csproj;arm

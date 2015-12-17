@@ -1,0 +1,17 @@
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\bin\ARM\Debug\IoTClient.dll
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\bin\ARM\Debug\IoTClient.pdb
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\bin\ARM\Debug\IoTClient.pri
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\IoTClient.dll
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\IoTClient.pdb
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\ResourceHandlingTask.state
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\priconfig.xml
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\priconfig.xml.intermediate
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\layout.resfiles
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\layout.resfiles.intermediate
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\resources.resfiles
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\resources.resfiles.intermediate
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\pri.resfiles
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\pri.resfiles.intermediate
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\qualifiers.txt
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\qualifiers.txt.intermediate
+E:\Projekti\ClonePi2ToEventHubs\IoTClient\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
